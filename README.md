@@ -7,8 +7,8 @@ PostgreSQL
 ## Instalación
 1. Clona el repositorio:
 
-git clone https://github.com/tu_usuario/always_music.git
-cd always_music
+    git clone https://github.com/tu_usuario/always_music.git
+    cd always_music
 
 2. Instala las dependencias:
 
